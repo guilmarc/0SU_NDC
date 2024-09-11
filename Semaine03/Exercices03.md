@@ -1,8 +1,9 @@
 # Exercices 03
 
-Dans le même répertoire de base tout au long du cours, exemple `0SU-WebClient1`, créez un sous-répertoire `Exercices03` et sous-répertoire par question `Question1` ainsi qu'un nouveau fichier `.html` pour chacune des questions suivantes. Exemple: `question1.html`.  Créer aussi le fichier `styles.css` dans le sous-répertoire `./public/css/`.
-
 ## Question 1 - Mes amis québécois
+
+Dans le même répertoire de base tout au long du cours, exemple `0SU-WebClient1`, créez un sous-répertoire `Exercices03` et sous-répertoire par question `Question1` ainsi qu'un nouveau fichier `question1.html`. Créer aussi le fichier `styles.css` dans le sous-répertoire `./public/css/`.
+
 En utilisant tel quel le body du code HTML fournit en la plaçant au bon endroit dans votre page, créer un site web en complétant le code CSS présenté en partie.  Vous aller devoir renommer les sélecteur portant actuellement le nom de `sélecteur-ici` par le bon sélecteur afin d'obtenir le résultat suivant :
 
 ![IMAGE](./images/01.png)
@@ -93,6 +94,8 @@ td:first-child {
 }
 ```
 ## Question 2 - Ma liste de tâches
+En utilisant le style dans la balise `<style>`...
+
 En se basant sur le CSS fournit en entier, créer le HTML d'une page web permettant d'obtenir ce résultat.  Ici il est demandé de ne pas utiliser de tableau mais une `div` avec une classe `container` associée qui contient 3 parties :
 1. Le header incluant le `h1` du titre.
 2. Un formulaire (`input` et `button`).
@@ -199,6 +202,8 @@ N.B. Il est normal que vous ne connaissiez pas encore l'ensemble des propriété
     }
 ```
 ## DÉFI - Question 3 - Inscription
+En utilisant le style dans la balise `<style>`...
+
 Créer votre propre HTML afin de générer le formulaire stylisé en utilisant le CSS fournit :
 1. Choisissez 5 pays au hasard pour la liste des pays.
 2. On ne doit pas pouvoir choisir `Choisir un pays` une fois qu'un vrai pays a été sélectionné.
