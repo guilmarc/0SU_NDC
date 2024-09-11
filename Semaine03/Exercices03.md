@@ -1,6 +1,6 @@
 # Exercices 03
 
-Dans le même répertoire de base tout au long du cours, exemple `0SU-WebClient1`, créez un sous-répertoire `Exercices03` et un nouveau fichier `.html` pour chacune des questions suivantes. Exemple: `question1.html`
+Dans le même répertoire de base tout au long du cours, exemple `0SU-WebClient1`, créez un sous-répertoire `Exercices03` et sous-répertoire par question `Question1` ainsi qu'un nouveau fichier `.html` pour chacune des questions suivantes. Exemple: `question1.html`.  Créer aussi le fichier `styles.css` dans le sous-répertoire `./public/css/`.
 
 ## Question 1 - Mes amis québécois
 En utilisant tel quel le body du code HTML fournit en la plaçant au bon endroit dans votre page, créer un site web en complétant le code CSS présenté en partie.  Vous aller devoir renommer les sélecteur portant actuellement le nom de `sélecteur-ici` par le bon sélecteur afin d'obtenir le résultat suivant :
@@ -218,7 +218,7 @@ Créer votre propre HTML afin de générer le formulaire stylisé en utilisant l
   box-sizing: border-box;
 }
 
-/* Style de base de la pafe */
+/* Style de base de la page */
 body {
   font-family: "Arial", sans-serif;
   background-color: #f8eaea;
