@@ -1,9 +1,10 @@
 # Travail Pratique #1 - XPress Pizza
+
 Votre travail pratique #1 sera de reproduire le plus fidèlement possible ce site web simple de 3 pages.
 
 Le visuel doit être le plus identique possible lorsque vous placer le site en taille maximale HD (1920 pixels de large).
 
-La police de caractère utilisée est une police de Google Font
+La police de caractère utilisée est une police de Google Font. Vous trouverez une procédure détaillée pour l'utilisation d'une police de Google [ICI](./Theorie/GoogleFont.md)
 
 ## Page `Accueil`
 
