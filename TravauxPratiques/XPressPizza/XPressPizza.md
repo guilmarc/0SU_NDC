@@ -10,7 +10,7 @@ La police de caractère utilisée est une police de Google Font nommée `Open Sa
 
 ### Site Web Complet
 
-![IMAGE](./images/xpresspizza.gif)
+![IMAGE](./images/xpress-pizza.gif)
 
 ## Page Accueil
 
