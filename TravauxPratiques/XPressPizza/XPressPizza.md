@@ -6,7 +6,7 @@ Votre travail pratique #1 sera de reproduire le plus fidèlement possible ce sit
 
 1. Le visuel doit être le plus identique possible lorsque vous placez le site en taille maximale HD (1920 pixels de large).
 
-2. Vous devez utiliser les images [ICI](./_bin/images.zip).
+2. Vous devez utiliser les images [ICI](./_bin/images.zip). Il vous faudra cliquer sur `View raw`.
 
 3. La police de caractère utilisée est une police de Google Font nommée `Open Sans`. Vous trouverez une procédure détaillée pour l'utilisation d'une police de Google [ICI](./Theorie/GoogleFont.md).
 
