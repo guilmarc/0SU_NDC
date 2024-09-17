@@ -2,11 +2,17 @@
 
 Votre travail pratique #1 sera de reproduire le plus fidèlement possible ce site web simple de 3 pages.
 
-Le visuel doit être le plus identique possible lorsque vous placer le site en taille maximale HD (1920 pixels de large).
+## Règles à suivre
 
-Vous trouverez les images utilisées [ICI](./_bin/images.zip).
+1. Le visuel doit être le plus identique possible lorsque vous placez le site en taille maximale HD (1920 pixels de large).
 
-La police de caractère utilisée est une police de Google Font nommée `Open Sans`. Vous trouverez une procédure détaillée pour l'utilisation d'une police de Google [ICI](./Theorie/GoogleFont.md).
+2. Vous devez utiliser les images [ICI](./_bin/images.zip).
+
+3. La police de caractère utilisée est une police de Google Font nommée `Open Sans`. Vous trouverez une procédure détaillée pour l'utilisation d'une police de Google [ICI](./Theorie/GoogleFont.md).
+
+4. Vous devez obligatoirement utiliser la propriété-racourcis `background` pour fixer vos images de fond.
+
+5. Le formulaire doit envoyer les informations avec les nom de champs `name`, `email` & `message`.
 
 ### Site Web Complet
 
@@ -54,3 +60,5 @@ Voici le visuel de la page `location.html`.
 Voici le visuel de la page `contact.html`.
 
 ![IMAGE](./images/contact.png)
+
+<p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
