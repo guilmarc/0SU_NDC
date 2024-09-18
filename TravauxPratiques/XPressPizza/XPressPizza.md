@@ -14,6 +14,8 @@ Votre travail pratique #1 sera de reproduire le plus fidèlement possible ce sit
 
 5. Le formulaire doit envoyer les informations avec les nom de champs `name`, `email` & `message`.
 
+6. Aucun `<br>` ne sera permis dans tout le site.
+
 ### Site Web Complet
 
 ![IMAGE](./images/xpress-pizza.gif)
@@ -30,6 +32,9 @@ Voici le visuel de la page `index.html`
 <body>
   <header>
     <!-- Code de l'entête ici-->
+    <nav>
+      <!-- Menu de navigation -->
+    </nav>
   </header>
   <section>
     <!-- Code de la partie principale ici -->
