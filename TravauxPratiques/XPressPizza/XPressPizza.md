@@ -70,9 +70,9 @@ Voici le visuel de la page `contact.html`.
 
 | #   | Savings                                                            | Points |
 | --- | ------------------------------------------------------------------ | ------ |
-| 01  | Section Menu identique                                             | 0.5    |
+| 01  | Section Menu identique                                             | 0.75    |
 | 02  | Section principale identique                                       | 0.75   |
-| 03  | Section détails identique                                          | 0.75   |
+| 03  | Section détails identique                                          | 1   |
 | 04  | Section Section Pizaiolo identique                                 | 0.25   |
 | 05  | Section réservation identique                                      | 0.5    |
 | 06  | Section Footer identique                                           | 0.25   |
