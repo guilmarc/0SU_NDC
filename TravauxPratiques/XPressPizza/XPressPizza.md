@@ -4,17 +4,19 @@ Votre travail pratique #1 sera de reproduire le plus fidèlement possible ce sit
 
 ## Règles à suivre
 
-1. Le visuel doit être le plus identique possible lorsque vous placez le site en taille maximale HD (1920 pixels de large).
+1. La disposition des éléments doit obligatoirement être faite en `float`. Aucun `flex` ni `grid` ne sera autorisé sous pénalité de deux points par présence.  
 
-2. Vous devez utiliser les images [ICI](./_bin/images.zip). Il vous faudra cliquer sur `View raw`.
+2. Le visuel doit être le plus identique possible lorsque vous placez le site en taille maximale HD (1920 pixels de large).
 
-3. La police de caractère utilisée est une police de Google Font nommée `Open Sans`. Vous trouverez une procédure détaillée pour l'utilisation d'une police de Google [ICI](./Theorie/GoogleFont.md).
+3. Vous devez utiliser les images [ICI](./_bin/images.zip). Il vous faudra cliquer sur `View raw`.
 
-4. Vous devez obligatoirement utiliser la propriété-racourcis `background` pour fixer vos images de fond.
+4. La police de caractère utilisée est une police de Google Font nommée `Open Sans`. Vous trouverez une procédure détaillée pour l'utilisation d'une police de Google [ICI](./Theorie/GoogleFont.md).
 
-5. Le formulaire doit envoyer les informations avec les nom de champs `name`, `email` & `message`.
+5. Vous devez obligatoirement utiliser la propriété-racourcis `background` pour fixer vos images de fond.
 
-6. Aucun `<br>` ne sera permis dans tout le site.
+6. Le formulaire doit envoyer les informations avec les nom de champs `name`, `email` & `message`.
+
+7. Aucun `<br>` ne sera permis dans tout le site.
 
 ### Site Web Complet
 
