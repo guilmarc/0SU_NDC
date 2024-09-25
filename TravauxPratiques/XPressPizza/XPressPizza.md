@@ -66,4 +66,24 @@ Voici le visuel de la page `contact.html`.
 
 ![IMAGE](./images/contact.png)
 
+## Grille de correction
+
+| #   | Savings                                                            | Points |
+| --- | ------------------------------------------------------------------ | ------ |
+| 01  | Section Menu identique                                             | 0.5    |
+| 02  | Section principale identique                                       | 0.75   |
+| 03  | Section détails identique                                          | 0.75   |
+| 04  | Section Section Pizaiolo identique                                 | 0.25   |
+| 05  | Section réservation identique                                      | 0.5    |
+| 06  | Section Footer identique                                           | 0.25   |
+| 07  | Page "Nous Trouver" identique                                      | 1      |
+| 08  | Page Contact identique et fonctionelle                             | 1      |
+| 09  | Code CSS clairs et variables avec noms significatifs + conventions | 1      |
+| 10  | Code CSS efficace et réutilisable                                  | 2      |
+| 11  | HTML clair et conforme aux attentes et conventions                 | 1      |
+| 12  | HTML Liste et types de sélecteurs convenables                      | 0.5    |
+| 13  | Respect des consignes                                              | 1      |
+|     |
+|     | TOTAL                                                              | 10     |
+
 <p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
