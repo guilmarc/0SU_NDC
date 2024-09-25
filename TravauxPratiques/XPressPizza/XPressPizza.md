@@ -82,7 +82,6 @@ Voici le visuel de la page `contact.html`.
 | 10  | Code CSS efficace et réutilisable                                  | 2      |
 | 11  | HTML clair et conforme aux attentes et conventions                 | 1      |
 | 12  | HTML Liste et types de sélecteurs convenables                      | 0.5    |
-| 13  | Respect des consignes                                              | 1      |
 |     |
 |     | TOTAL                                                              | 10     |
 
