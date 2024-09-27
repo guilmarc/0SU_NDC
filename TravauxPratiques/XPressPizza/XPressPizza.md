@@ -28,6 +28,10 @@ Voici le visuel de la page `index.html`
 
 ![IMAGE](./images/accueil.png)
 
+### Indices pour la conception générale du layout
+
+![IMAGE](./images/accueil_hints.png)
+
 ### Structure de base à utiliser pour la page d'accueil
 
 ```html
