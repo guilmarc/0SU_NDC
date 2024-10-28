@@ -1,6 +1,6 @@
 # Travail Pratique #1 - XPress Pizza
 
-Votre travail pratique #1 sera de reproduire le plus fidèlement possible ce site web simple de 3 pages.
+Votre travail pratique #1 sera de reproduire le plus fidèlement possible ce site web simple de 3 pages de façon individuelle.
 
 ## Règles à suivre
 
@@ -49,7 +49,7 @@ Voici le visuel de la page `index.html`
     <!-- Code de la section des informations ici -->
   </section>
   <section>
-    <!-- Image du Pizaiolo ici -->
+    <!-- Image du Pizzaiolo ici -->
   </section>
   <section>
     <!-- Code de la section de réservation -->
