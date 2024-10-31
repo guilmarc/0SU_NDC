@@ -4,7 +4,7 @@
 ## Selecteur d'élément
 <img src="./images/1.png" alt="drawing" height="50"/>
 
-Permet de sélectionner un élment en cliquand dessus dans la page web afin de vérifier ses propriétés dans la fenêtre des `Éléments`.
+Permet de sélectionner un élément en cliquant dessus dans la page web afin de vérifier ses propriétés dans la fenêtre des `Éléments`.
 
 <img src="./images/4.png" alt="drawing" />
 
