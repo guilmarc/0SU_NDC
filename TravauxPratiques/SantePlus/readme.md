@@ -3,7 +3,7 @@ Votre travail pratique #2 sera de reproduire le plus fidèlement possible ce sit
 
 ## Règles à suivre
 
-1. La disposition des éléments doit obligatoirement être faite en `flex`. Aucun `flex` ni `grid` ne sera autorisé sous pénalité de deux points par présence.  
+1. La disposition des éléments doit obligatoirement être faite en `flex`.  
 
 2. Le visuel doit être le plus identique possible lorsque vous placez le site en taille maximale HD (1920 pixels de large) et le site doit être adapté au web ainsi qu'à la taille du iPhone 14 Pro Max.
 
