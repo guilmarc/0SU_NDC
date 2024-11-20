@@ -1,4 +1,4 @@
-# Travail Pratique #2 - Santé Plus (version 0.4)
+# Travail Pratique #2 - Santé Plus (version 0.9)
 
 Votre travail pratique #2 sera de reproduire le plus fidèlement possible ce site web de regroupement de professionnels de la santé.
 
@@ -16,7 +16,7 @@ Votre travail pratique #2 sera de reproduire le plus fidèlement possible ce sit
 
 6. Aucun `<br>` ne sera permis dans tout le site.
 
-7. L'icône présent dans l'onglet doit être une version miniature du logo principal (`favicon.ico`).  Une recherche sur le web sera probablement nécesaire.
+7. L'icône présent dans l'onglet doit être une version miniature du logo principal (`favicon.ico`). Une recherche sur le web sera probablement nécesaire.
 
 ## Charte graphique
 
@@ -26,6 +26,7 @@ Votre travail pratique #2 sera de reproduire le plus fidèlement possible ce sit
 - Playwrite
 
 ### Variable
+
 ```css
 :root {
   --color-primary: #e4e8ea;
@@ -41,6 +42,7 @@ Votre travail pratique #2 sera de reproduire le plus fidèlement possible ce sit
   --size-footer-height: 15rem;
 }
 ```
+
 ### Logo central
 
 - Le logo central devra être programmé en CSS en utilisant les `flex` ainsi que les transformation.
