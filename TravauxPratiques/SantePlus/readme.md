@@ -79,4 +79,13 @@ La partie avec les 14 liens en texte blanc doit **obligatoirement** être progra
 ## Version mobile
 Vous serez responsable de fournir une version mobile (iPhone 14 Pro Max) du site web en utilisant les spécifications apprises en classe.  La version mobile devra inclure tout les éléments de la page web régulière.
 
+Voici un exemple de page responsive acceptable :
+
+
+<p align="Center" style="margin:0"><img src="./images/5.png" alt="drawing" width="250"/></p>
+<p align="Center" style="margin:0"><img src="./images/6.png" alt="drawing" width="250"/></p>
+<p align="Center" style="margin:0"><img src="./images/7.png" alt="drawing" width="250"/></p>
+<p align="Center" style="margin:0"><img src="./images/9.png" alt="drawing" width="250"/></p>
+<p align="Center" style="margin:0"><img src="./images/8.png" alt="drawing" width="250"/></p>
+
 <p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
