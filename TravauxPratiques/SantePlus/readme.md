@@ -1,4 +1,4 @@
-# Travail Pratique #2 - Santé Plus (version 0.9)
+# Travail Pratique #2 - Santé Plus (version 1.0 finale)
 
 Votre travail pratique #2 sera de reproduire le plus fidèlement possible ce site web de regroupement de professionnels de la santé.
 
@@ -75,5 +75,8 @@ Votre travail pratique #2 sera de reproduire le plus fidèlement possible ce sit
 La partie avec les 14 liens en texte blanc doit **obligatoirement** être programmée en utilisant une disposition en `grid`.
 
 ![IMAGE](./images/4.png)
+
+## Version mobile
+Vous serez responsable de fournir une version mobile (iPhone 14 Pro Max) du site web en utilisant les spécifications apprises en classe.  La version mobile devra inclure tout les éléments de la page web régulière.
 
 <p align="Center"><img src="./images/end.png" alt="drawing" width="150"/></p>
